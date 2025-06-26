@@ -2,7 +2,7 @@
     "name": "bloodpixel/libasynql",
     "type": "library",
     "require": {
-        "bloodpixel/pocketmine-mp": "^5.25.2",
+        "blood-pixel/pocketmine-mp": "dev-stable",
 		"sof3/await-generator": "^2.0.0 || ^3.0.0"
     },
     "license": "Apache-2.0",
